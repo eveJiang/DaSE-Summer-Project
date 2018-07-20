@@ -14,6 +14,7 @@
 >+ 7.13 建立GitHub仓库，https://github.com/francis0407/Porg
 >+ 7.14 完成MapReduce框架(C++)的设计，计划一周以内完成开发。
 >+ 7.16 第二次组会，再次熟悉流程，确定各接口规范，并简单规划服务端的功能、流程设计。
+>+ 7.20 完成MapReduce框架的Debug（仍有Bug），但可以运行WordCount样例
 ***
 
 ### 项目名称：内存数据库
